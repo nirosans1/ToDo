@@ -1,7 +1,9 @@
 ﻿{
   "dependencies": {
     "Acr.XamForms.UserDialogs": "5.0.0",
+    "Microsoft.Azure.Mobile.Analytics": "0.5.0",
     "Microsoft.Azure.Mobile.Client": "3.0.3",
+    "Microsoft.Azure.Mobile.Crashes": "0.5.0",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.1.0",
     "Newtonsoft.Json": "9.0.1",
     "SQLitePCL": "3.8.7.2",

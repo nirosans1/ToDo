@@ -4,6 +4,12 @@ C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Acr.UserDialogs
 C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Acr.UserDialogs.Interface.dll
 C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\AndHUD.dll
 C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\FormsViewGroup.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Android.Bindings.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.dll
 C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.dll
 C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.Ext.dll
 C:\D Drive\Xamarin\ToDo\ToDo\ToDo.Droid\obj\Debug\android\assets\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll

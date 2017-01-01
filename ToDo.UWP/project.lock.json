@@ -34,6 +34,27 @@
           "lib/netcore451/Coding4Fun.Toolkit.dll": {}
         }
       },
+      "Microsoft.Azure.Mobile/0.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Analytics/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        }
+      },
       "Microsoft.Azure.Mobile.Client/3.0.3": {
         "type": "package",
         "dependencies": {
@@ -49,6 +70,18 @@
         "runtime": {
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.Ext.dll": {},
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Crashes/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
         }
       },
       "Microsoft.Bcl/1.1.10": {
@@ -2046,6 +2079,27 @@
           "lib/netcore451/Coding4Fun.Toolkit.dll": {}
         }
       },
+      "Microsoft.Azure.Mobile/0.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Analytics/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        }
+      },
       "Microsoft.Azure.Mobile.Client/3.0.3": {
         "type": "package",
         "dependencies": {
@@ -2061,6 +2115,18 @@
         "runtime": {
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.Ext.dll": {},
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Crashes/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
         }
       },
       "Microsoft.Bcl/1.1.10": {
@@ -3924,6 +3990,27 @@
           "lib/netcore451/Coding4Fun.Toolkit.dll": {}
         }
       },
+      "Microsoft.Azure.Mobile/0.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Analytics/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        }
+      },
       "Microsoft.Azure.Mobile.Client/3.0.3": {
         "type": "package",
         "dependencies": {
@@ -3939,6 +4026,18 @@
         "runtime": {
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.Ext.dll": {},
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Crashes/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
         }
       },
       "Microsoft.Bcl/1.1.10": {
@@ -5759,6 +5858,27 @@
           "lib/netcore451/Coding4Fun.Toolkit.dll": {}
         }
       },
+      "Microsoft.Azure.Mobile/0.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Analytics/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        }
+      },
       "Microsoft.Azure.Mobile.Client/3.0.3": {
         "type": "package",
         "dependencies": {
@@ -5774,6 +5894,18 @@
         "runtime": {
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.Ext.dll": {},
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Crashes/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
         }
       },
       "Microsoft.Bcl/1.1.10": {
@@ -7646,6 +7778,27 @@
           "lib/netcore451/Coding4Fun.Toolkit.dll": {}
         }
       },
+      "Microsoft.Azure.Mobile/0.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Analytics/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        }
+      },
       "Microsoft.Azure.Mobile.Client/3.0.3": {
         "type": "package",
         "dependencies": {
@@ -7661,6 +7814,18 @@
         "runtime": {
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.Ext.dll": {},
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Crashes/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
         }
       },
       "Microsoft.Bcl/1.1.10": {
@@ -9481,6 +9646,27 @@
           "lib/netcore451/Coding4Fun.Toolkit.dll": {}
         }
       },
+      "Microsoft.Azure.Mobile/0.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Analytics/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        }
+      },
       "Microsoft.Azure.Mobile.Client/3.0.3": {
         "type": "package",
         "dependencies": {
@@ -9496,6 +9682,18 @@
         "runtime": {
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.Ext.dll": {},
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Crashes/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
         }
       },
       "Microsoft.Bcl/1.1.10": {
@@ -11368,6 +11566,27 @@
           "lib/netcore451/Coding4Fun.Toolkit.dll": {}
         }
       },
+      "Microsoft.Azure.Mobile/0.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Analytics/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll": {}
+        }
+      },
       "Microsoft.Azure.Mobile.Client/3.0.3": {
         "type": "package",
         "dependencies": {
@@ -11383,6 +11602,18 @@
         "runtime": {
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.Ext.dll": {},
           "lib/netcore45/Microsoft.WindowsAzure.Mobile.dll": {}
+        }
+      },
+      "Microsoft.Azure.Mobile.Crashes/0.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Azure.Mobile": "0.5.0"
+        },
+        "compile": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
+        },
+        "runtime": {
+          "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll": {}
         }
       },
       "Microsoft.Bcl/1.1.10": {
@@ -13276,6 +13507,34 @@
         "lib/wpa81/Coding4Fun.Toolkit.pri"
       ]
     },
+    "Microsoft.Azure.Mobile/0.5.0": {
+      "sha512": "k1d9FKS4Obl3xL94mO7X16wwBGL6MxOpDfQHrB+MdemyZYKfa0EqtfF6yfxFCD3+yhOOv/LZOqQdcSt6RM3f3g==",
+      "type": "package",
+      "path": "microsoft.azure.mobile/0.5.0",
+      "files": [
+        "lib/MonoAndroid403/Microsoft.Azure.Mobile.Android.Bindings.dll",
+        "lib/MonoAndroid403/Microsoft.Azure.Mobile.dll",
+        "lib/Xamarin.iOS10/Microsoft.Azure.Mobile.dll",
+        "lib/Xamarin.iOS10/Microsoft.Azure.Mobile.iOS.Bindings.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.dll",
+        "microsoft.azure.mobile.0.5.0.nupkg.sha512",
+        "microsoft.azure.mobile.nuspec"
+      ]
+    },
+    "Microsoft.Azure.Mobile.Analytics/0.5.0": {
+      "sha512": "urLk2zzkgm9UfyWl56SDiEYZTYAVtn3bUflWa1ejIU/GljSeai0jmDao7ZlG+sfBB0yU2KfoqACJZSpLIQorEA==",
+      "type": "package",
+      "path": "microsoft.azure.mobile.analytics/0.5.0",
+      "files": [
+        "lib/MonoAndroid403/Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll",
+        "lib/MonoAndroid403/Microsoft.Azure.Mobile.Analytics.dll",
+        "lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll",
+        "lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.iOS.Bindings.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Analytics.dll",
+        "microsoft.azure.mobile.analytics.0.5.0.nupkg.sha512",
+        "microsoft.azure.mobile.analytics.nuspec"
+      ]
+    },
     "Microsoft.Azure.Mobile.Client/3.0.3": {
       "sha512": "7JoZIO+zC8LpD9/Pi5cKa1tq+0ujTQeZpxFZmMXz7x6ma2kpTfIUE7WFKIwt3l7z9T4FyHfKlX8/tqjO9ObR2A==",
       "type": "package",
@@ -13316,6 +13575,20 @@
         "lib/wpa81/Microsoft.WindowsAzure.Mobile.xml",
         "microsoft.azure.mobile.client.3.0.3.nupkg.sha512",
         "microsoft.azure.mobile.client.nuspec"
+      ]
+    },
+    "Microsoft.Azure.Mobile.Crashes/0.5.0": {
+      "sha512": "oz9FGtFZ9hTMp5lOxDXjq7VHZWUZV73f1UNNhMPNOxmdoLiCz4OjEM6vKS5G2/9yxfaITatvFQxI7/7cbBgasg==",
+      "type": "package",
+      "path": "microsoft.azure.mobile.crashes/0.5.0",
+      "files": [
+        "lib/MonoAndroid403/Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll",
+        "lib/MonoAndroid403/Microsoft.Azure.Mobile.Crashes.dll",
+        "lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll",
+        "lib/Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.iOS.Bindings.dll",
+        "lib/portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10/Microsoft.Azure.Mobile.Crashes.dll",
+        "microsoft.azure.mobile.crashes.0.5.0.nupkg.sha512",
+        "microsoft.azure.mobile.crashes.nuspec"
       ]
     },
     "Microsoft.Bcl/1.1.10": {
@@ -17230,7 +17503,9 @@
   "projectFileDependencyGroups": {
     "": [
       "Acr.XamForms.UserDialogs >= 5.0.0",
+      "Microsoft.Azure.Mobile.Analytics >= 0.5.0",
       "Microsoft.Azure.Mobile.Client >= 3.0.3",
+      "Microsoft.Azure.Mobile.Crashes >= 0.5.0",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.1.0",
       "Newtonsoft.Json >= 9.0.1",
       "SQLitePCL >= 3.8.7.2",
@@ -17261,7 +17536,9 @@
     },
     "dependencies": {
       "Acr.XamForms.UserDialogs": "5.0.0",
+      "Microsoft.Azure.Mobile.Analytics": "0.5.0",
       "Microsoft.Azure.Mobile.Client": "3.0.3",
+      "Microsoft.Azure.Mobile.Crashes": "0.5.0",
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.1.0",
       "Newtonsoft.Json": "9.0.1",
       "SQLitePCL": "3.8.7.2",

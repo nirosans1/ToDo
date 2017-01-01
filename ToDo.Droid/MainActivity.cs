@@ -7,6 +7,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using Acr.UserDialogs;
+using Microsoft.Azure.Mobile;
 
 namespace ToDo.Droid
 {
@@ -17,6 +18,8 @@ namespace ToDo.Droid
         {
             TabLayoutResource = Resource.Layout.Tabbar;
             ToolbarResource = Resource.Layout.Toolbar;
+
+            MobileCenter.Configure("e78e02e1-1b2d-4aee-ba7c-6233152015ee");
 
             base.OnCreate(bundle);
             Microsoft.WindowsAzure.MobileServices.CurrentPlatform.Init();

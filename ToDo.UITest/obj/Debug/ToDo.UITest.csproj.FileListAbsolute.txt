@@ -1,0 +1,12 @@
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Debug\ToDo.UITest.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Debug\ToDo.UITest.pdb
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Debug\Microsoft.Azure.Mobile.Crashes.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Debug\Microsoft.Azure.Mobile.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Debug\nunit.framework.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Debug\Xamarin.UITest.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Debug\nunit.framework.xml
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Debug\Xamarin.UITest.xml
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\obj\Debug\ToDo.UITest.csprojResolveAssemblyReference.cache
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\obj\Debug\ToDo.UITest.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\obj\Debug\ToDo.UITest.pdb

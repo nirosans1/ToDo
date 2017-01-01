@@ -5,6 +5,9 @@ using System.Text;
 using ToDo.Services;
 using ToDo.Utility;
 using Xamarin.Forms;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 
 namespace ToDo
 {
@@ -13,6 +16,8 @@ namespace ToDo
         public App()
         {
             InitializeComponent();
+
+            MobileCenter.Start(typeof(Analytics), typeof(Crashes));
 
             bool useMock = false;
 

@@ -17,8 +17,16 @@ namespace ToDo.Pages {
     public partial class ToDoDetail : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button btnSave;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button btnDelete;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(ToDoDetail));
+            btnSave = this.FindByName<global::Xamarin.Forms.Button>("btnSave");
+            btnDelete = this.FindByName<global::Xamarin.Forms.Button>("btnDelete");
         }
     }
 }

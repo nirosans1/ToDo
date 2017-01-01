@@ -233,3 +233,6 @@ C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UWP\obj\x86\Debug\Splat.pri.xml
 C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
 C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UWP\obj\x86\Debug\SQLitePCL.Ext.pri.xml
 C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UWP\bin\x86\Debug\Microsoft.Azure.Mobile.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UWP\bin\x86\Debug\Microsoft.Azure.Mobile.Analytics.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UWP\bin\x86\Debug\Microsoft.Azure.Mobile.Crashes.dll

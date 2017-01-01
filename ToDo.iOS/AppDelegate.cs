@@ -4,7 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
-
+using Microsoft.Azure.Mobile;
 
 namespace ToDo.iOS
 {
@@ -23,6 +23,7 @@ namespace ToDo.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            MobileCenter.Configure("e78e02e1-1b2d-4aee-ba7c-6233152015ee");
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
