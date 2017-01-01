@@ -1,0 +1,9 @@
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Release\ToDo.UITest.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Release\ToDo.UITest.pdb
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Release\nunit.framework.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Release\Xamarin.UITest.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Release\nunit.framework.xml
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\bin\Release\Xamarin.UITest.xml
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\obj\Release\ToDo.UITest.csprojResolveAssemblyReference.cache
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\obj\Release\ToDo.UITest.dll
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UITest\obj\Release\ToDo.UITest.pdb

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+		xmlns="http://xamarin.com/schemas/2014/forms" 
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+		x:Class="ToDo.Pages.ToDoPage"
+		Title="{Binding Title}">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add New" Icon="ic_action_new.png" Command="{Binding AddNewItemCommand}" AutomationId="toolBarAddNewBook"/>
+        <ToolbarItem Text="Refresh" Icon="ic_autorenew.png" Command="{Binding RefreshCommand}" AutomationId="toolBarRefresh" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+			<ListView 
+					BackgroundColor="#F7F7F7" 
+					RowHeight="60" 
+					CachingStrategy="RecycleElement" 
+					ItemsSource="{Binding ToDoItems}" 
+					SelectedItem="{Binding SelectedToDoItem, Mode=TwoWay}"
+					IsPullToRefreshEnabled="True"
+          			RefreshCommand="{Binding RefreshCommand}"
+          			IsRefreshing="{Binding IsBusy, Mode=OneWay}">
+				<ListView.ItemTemplate>
+					<DataTemplate>
+						<ViewCell>
+                        	<StackLayout Padding="10" Orientation="Horizontal" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+                            	<Label Text="{Binding Text}" TextColor="#272832" HorizontalOptions="FillAndExpand"/>
+								<Switch IsToggled="{Binding Complete}"/>
+                        	</StackLayout>
+                    	</ViewCell>
+					</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+			<Button x:Name="btnAddNew" Text="Add New" BackgroundColor="#A6E55E" TextColor="White" Command="{Binding AddNewItemCommand}"></Button>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

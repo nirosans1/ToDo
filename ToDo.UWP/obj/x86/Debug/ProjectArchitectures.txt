@@ -1,0 +1,2 @@
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo.UWP\ToDo.UWP.csproj;x86
+C:\D Drive\Xamarin\ToDo\ToDo\ToDo\ToDo.csproj;neutral
