@@ -23,7 +23,7 @@ namespace ToDo.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            MobileCenter.Configure("e78e02e1-1b2d-4aee-ba7c-6233152015ee");
+            MobileCenter.Configure("9f2cb75b-c1f9-4a0a-8f8c-a9a37db71c2e");
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
